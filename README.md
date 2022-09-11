@@ -1,9 +1,5 @@
-# 💎 Design site NFT responsivo usando HTML CSS & JavaScript.
+# Site responsivo usando HTML CSS & Bootstrap 
 
-- Contém CSS & ScrollReveal animations.
-- Mobile First methodology.
 - Compatível com todos aparelhos mobile.
-
-💙 Créditos: [Bedimcode](https://youtu.be/eDm7l5ODWuU)
 
 ![preview img](/preview.png)
